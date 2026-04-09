@@ -1,1 +1,5 @@
-/* Add CSS Styling */
+.not-special {background-color: #fe53aa;
+    font-family: Verdana, "DejaVu Sans", sans-serif;}
+.really-not-special {font-size: 24px;}
+#special {color: blue;font-size: 36px;}
+#specialtwo {background-color: lightgreen;font-size: 24px;font-weight: bold;}
